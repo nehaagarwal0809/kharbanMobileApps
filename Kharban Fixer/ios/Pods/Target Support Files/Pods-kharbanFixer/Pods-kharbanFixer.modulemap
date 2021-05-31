@@ -1,0 +1,6 @@
+module Pods_kharbanFixer {
+  umbrella header "Pods-kharbanFixer-umbrella.h"
+
+  export *
+  module * { export * }
+}
